@@ -1,2 +1,2 @@
-# incedoTrain2
-Incedo training 
+# incTrain2
+Inc training 
